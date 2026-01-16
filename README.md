@@ -2,7 +2,7 @@
 
 ![Header](https://i.ibb.co/ch5Knhd8/orig.jpg)
 
-_An exciting puzzle game in which you have to embroider paintings!_ 
+_An exciting puzzle WebGL game in which you have to embroider paintings!_ 
 
 ## Stack 💡
 
@@ -24,6 +24,10 @@ When you take out the bolt, its thread gets on the spool, when it is filled, it 
 Shapes - Hinje Joints, when you take out the bolt, the shape starts to move, so you need to think through a strategy to get everything you need.
 
 You can use __superpowers__ to gain an advantage in some game situations!
+
+## Game Link
+
+[PLAY](https://yandex.ru/games/app/431670?utm_source=app_page)
 
 ## Contacts 📫
 
