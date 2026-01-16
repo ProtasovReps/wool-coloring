@@ -25,9 +25,7 @@ Shapes - Hinje Joints, when you take out the bolt, the shape starts to move, so 
 
 You can use __superpowers__ to gain an advantage in some game situations!
 
-## Game Link
-
-[PLAY](https://yandex.ru/games/app/431670?utm_source=app_page)
+## [▶️ Game Link](https://yandex.ru/games/app/431670?utm_source=app_page)
 
 ## Contacts 📫
 
